@@ -1,5 +1,6 @@
 Tileable Volume Noise
 ---------------------
+This is a improved version of [EA's volume noise generator](https://github.com/sebh/TileableVolumeNoise).
 
 Collection of functions that can be used to generate tileable volume/3d noise. An example of volume noise functions that can be specifically used for clouds is also presented.
 
