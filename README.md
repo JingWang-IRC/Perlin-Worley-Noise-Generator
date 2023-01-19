@@ -12,4 +12,4 @@ Done in collaboration with [weirdfoo](https://twitter.com/weirdfo).
 
 This library uses
  - [GLM](http://glm.g-truc.net)
- - [LibTarga](http://research.cs.wisc.edu/graphics/Gallery/LibTarga/)
+ - [stbImage](https://github.com/nothings/stb)
